@@ -16,12 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <p>
+   
     
-     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/395f0cf5-b046-4c64-8cf1-29270b0614fb"
+     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/5d6f4808-cd86-425e-ac77-793fbeca2421"
  height="70%" width="40%">
-    <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/40daaa00-3cb1-4917-a5c5-a618e1a24f9b"
+     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/de002d3b-f222-4056-bb1c-7194b5837281"
  height="70%" width="40%">
-    <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/4cf23eee-28a2-4f4b-b364-f93355eec88b"
+     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/4e7f1c9c-d5c2-47a0-b81e-cc445f817a2f"
  height="70%" width="40%">
   
   
