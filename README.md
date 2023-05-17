@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
     
-     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/a439fa4a-ab4f-41c9-b3f6-536b7d110c1a"
+     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/395f0cf5-b046-4c64-8cf1-29270b0614fb"
  height="70%" width="40%">
     <img src="https://github.com/DarshanKumbhani/all_in_one_app/assets/119837659/40daaa00-3cb1-4917-a5c5-a618e1a24f9b"
  height="70%" width="40%">
